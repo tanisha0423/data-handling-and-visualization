@@ -1,6 +1,6 @@
 # Data Visualization with Python – Coursework
 
-This repository contains a series of Jupyter notebooks developed as part of a Data Visualization course using Python. The goal was to explore a wide variety of data types and visualization techniques using popular Python libraries.
+This repository contains a series of Colab notebooks developed as part of a Data Visualization course using Python. The goal was to explore a wide variety of data types and visualization techniques using popular Python libraries.
 
 ## 🎯 Purpose
 
